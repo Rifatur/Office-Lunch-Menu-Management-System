@@ -9,16 +9,6 @@ namespace OfficeLunchMenuSystem.Domain.Entities
         public string Description { get; set; } = default!;
         public ICollection<LunchOption> LunchOptions { get; set; } = default!;
 
-
-
-        // Parameterless constructor for EF Core
-        private LunchMenu() { }
-        public LunchMenu(string name, string description)
-        {
-            Id = Guid.NewGuid();
-            Name = name;
-            Description = description;
-        }
     }
 
 }
