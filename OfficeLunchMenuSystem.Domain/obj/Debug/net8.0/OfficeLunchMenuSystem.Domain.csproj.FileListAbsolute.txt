@@ -1,0 +1,12 @@
+X:\Apps\OfficeLunchMenuSystem\OfficeLunchMenuSystem.Domain\bin\Debug\net8.0\OfficeLunchMenuSystem.Domain.deps.json
+X:\Apps\OfficeLunchMenuSystem\OfficeLunchMenuSystem.Domain\bin\Debug\net8.0\OfficeLunchMenuSystem.Domain.dll
+X:\Apps\OfficeLunchMenuSystem\OfficeLunchMenuSystem.Domain\bin\Debug\net8.0\OfficeLunchMenuSystem.Domain.pdb
+X:\Apps\OfficeLunchMenuSystem\OfficeLunchMenuSystem.Domain\obj\Debug\net8.0\OfficeLunchMenuSystem.Domain.GeneratedMSBuildEditorConfig.editorconfig
+X:\Apps\OfficeLunchMenuSystem\OfficeLunchMenuSystem.Domain\obj\Debug\net8.0\OfficeLunchMenuSystem.Domain.AssemblyInfoInputs.cache
+X:\Apps\OfficeLunchMenuSystem\OfficeLunchMenuSystem.Domain\obj\Debug\net8.0\OfficeLunchMenuSystem.Domain.AssemblyInfo.cs
+X:\Apps\OfficeLunchMenuSystem\OfficeLunchMenuSystem.Domain\obj\Debug\net8.0\OfficeLunchMenuSystem.Domain.csproj.CoreCompileInputs.cache
+X:\Apps\OfficeLunchMenuSystem\OfficeLunchMenuSystem.Domain\obj\Debug\net8.0\OfficeLunchMenuSystem.Domain.sourcelink.json
+X:\Apps\OfficeLunchMenuSystem\OfficeLunchMenuSystem.Domain\obj\Debug\net8.0\OfficeLunchMenuSystem.Domain.dll
+X:\Apps\OfficeLunchMenuSystem\OfficeLunchMenuSystem.Domain\obj\Debug\net8.0\refint\OfficeLunchMenuSystem.Domain.dll
+X:\Apps\OfficeLunchMenuSystem\OfficeLunchMenuSystem.Domain\obj\Debug\net8.0\OfficeLunchMenuSystem.Domain.pdb
+X:\Apps\OfficeLunchMenuSystem\OfficeLunchMenuSystem.Domain\obj\Debug\net8.0\ref\OfficeLunchMenuSystem.Domain.dll
