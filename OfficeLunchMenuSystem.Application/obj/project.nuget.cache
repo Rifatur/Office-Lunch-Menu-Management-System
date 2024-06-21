@@ -1,12 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "dQDvoFhSyyhszWYQhU3M1GOl4pVgbSXkLqWAEtf/MwpU+qbl78Hnz3x/7LMHnxrLUI4NDe+hwIvSuzwZiGDFFQ==",
+  "dgSpecHash": "UM6XxSQ25TL3ReFfIiUs4hbOLKHP+0xlPLH++kxotaT4jemGDidN5fYZQbG+HFCHsNlS3VpvXak0VflNMSojgA==",
   "success": true,
   "projectFilePath": "X:\\Apps\\OfficeLunchMenuSystem\\OfficeLunchMenuSystem.Application\\OfficeLunchMenuSystem.Application.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\rifat\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\rifat\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
     "C:\\Users\\rifat\\.nuget\\packages\\mediatr\\11.0.0\\mediatr.11.0.0.nupkg.sha512",
     "C:\\Users\\rifat\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
     "C:\\Users\\rifat\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.0.0\\mediatr.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
+    "C:\\Users\\rifat\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\rifat\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.6\\microsoft.entityframeworkcore.8.0.6.nupkg.sha512",
     "C:\\Users\\rifat\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.6\\microsoft.entityframeworkcore.abstractions.8.0.6.nupkg.sha512",
     "C:\\Users\\rifat\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\8.0.6\\microsoft.entityframeworkcore.analyzers.8.0.6.nupkg.sha512",

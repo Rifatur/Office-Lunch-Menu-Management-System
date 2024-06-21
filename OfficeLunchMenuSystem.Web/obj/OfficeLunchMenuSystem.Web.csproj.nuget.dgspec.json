@@ -27,7 +27,11 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "X:\\Apps\\OfficeLunchMenuSystem\\OfficeLunchMenuSystem.Domain\\OfficeLunchMenuSystem.Domain.csproj": {
+                "projectPath": "X:\\Apps\\OfficeLunchMenuSystem\\OfficeLunchMenuSystem.Domain\\OfficeLunchMenuSystem.Domain.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -45,6 +49,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
             "MediatR.Extensions.Microsoft.DependencyInjection": {
               "target": "Package",
               "version": "[11.0.0, )"

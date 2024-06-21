@@ -3,6 +3,6 @@ using OfficeLunchMenuSystem.Application.Features.LunchMenu.DTOs;
 
 namespace OfficeLunchMenuSystem.Application.Features.LunchMenu.Queries.List
 {
-    public record ListLunchMenuQuery : IRequest<List<LunchMenuDTO>>;
+    public record ListLunchMenuQuery : IRequest<IEnumerable<LunchMenuDTO>>;
 
 }
