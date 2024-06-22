@@ -144,3 +144,5 @@ X:\Apps\OfficeLunchMenuSystem\OfficeLunchMenuSystem.Web\bin\Debug\net8.0\OfficeL
 X:\Apps\OfficeLunchMenuSystem\OfficeLunchMenuSystem.Web\obj\Debug\net8.0\OfficeLunchMenuSystem.Web.csproj.AssemblyReference.cache
 X:\Apps\OfficeLunchMenuSystem\OfficeLunchMenuSystem.Web\obj\Debug\net8.0\OfficeLunchMenuSystem.Web.sourcelink.json
 X:\Apps\OfficeLunchMenuSystem\OfficeLunchMenuSystem.Web\obj\Debug\net8.0\OfficeLu.EBDFE697.Up2Date
+X:\Apps\OfficeLunchMenuSystem\OfficeLunchMenuSystem.Web\bin\Debug\net8.0\AutoMapper.dll
+X:\Apps\OfficeLunchMenuSystem\OfficeLunchMenuSystem.Web\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll

@@ -7,7 +7,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Features\LunchMenu\Commands\Delete\" />
     <Folder Include="Features\LunchMenu\Commands\Update\" />
     <Folder Include="Features\LunchMenu\Queries\Get\" />
   </ItemGroup>

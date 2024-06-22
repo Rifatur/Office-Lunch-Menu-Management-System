@@ -11,3 +11,6 @@ X:\Apps\OfficeLunchMenuSystem\OfficeLunchMenuSystem.Application\obj\Debug\net8.0
 X:\Apps\OfficeLunchMenuSystem\OfficeLunchMenuSystem.Application\obj\Debug\net8.0\refint\OfficeLunchMenuSystem.Application.dll
 X:\Apps\OfficeLunchMenuSystem\OfficeLunchMenuSystem.Application\obj\Debug\net8.0\OfficeLunchMenuSystem.Application.pdb
 X:\Apps\OfficeLunchMenuSystem\OfficeLunchMenuSystem.Application\obj\Debug\net8.0\ref\OfficeLunchMenuSystem.Application.dll
+X:\Apps\OfficeLunchMenuSystem\OfficeLunchMenuSystem.Application\bin\Debug\net8.0\OfficeLunchMenuSystem.Domain.dll
+X:\Apps\OfficeLunchMenuSystem\OfficeLunchMenuSystem.Application\bin\Debug\net8.0\OfficeLunchMenuSystem.Domain.pdb
+X:\Apps\OfficeLunchMenuSystem\OfficeLunchMenuSystem.Application\obj\Debug\net8.0\OfficeLu.3FAE0159.Up2Date
