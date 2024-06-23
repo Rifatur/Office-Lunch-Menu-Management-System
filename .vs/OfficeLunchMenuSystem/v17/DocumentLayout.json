@@ -3,16 +3,32 @@
   "WorkspaceRootPath": "X:\\Apps\\OfficeLunchMenuSystem\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CA0DFC51-BF45-44D1-BC49-C976B8687920}|OfficeLunchMenuSystem.Web\\OfficeLunchMenuSystem.Web.csproj|x:\\apps\\officelunchmenusystem\\officelunchmenusystem.web\\controllers\\lunchmenucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA0DFC51-BF45-44D1-BC49-C976B8687920}|OfficeLunchMenuSystem.Web\\OfficeLunchMenuSystem.Web.csproj|solutionrelative:officelunchmenusystem.web\\controllers\\lunchmenucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{483B47A3-0D3F-4119-89A0-AA5DCB81E1C0}|OfficeLunchMenuSystem.Application\\OfficeLunchMenuSystem.Application.csproj|x:\\apps\\officelunchmenusystem\\officelunchmenusystem.application\\applicationservicesregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{483B47A3-0D3F-4119-89A0-AA5DCB81E1C0}|OfficeLunchMenuSystem.Application\\OfficeLunchMenuSystem.Application.csproj|solutionrelative:officelunchmenusystem.application\\applicationservicesregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA0DFC51-BF45-44D1-BC49-C976B8687920}|OfficeLunchMenuSystem.Web\\OfficeLunchMenuSystem.Web.csproj|x:\\apps\\officelunchmenusystem\\officelunchmenusystem.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA0DFC51-BF45-44D1-BC49-C976B8687920}|OfficeLunchMenuSystem.Web\\OfficeLunchMenuSystem.Web.csproj|solutionrelative:officelunchmenusystem.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{483B47A3-0D3F-4119-89A0-AA5DCB81E1C0}|OfficeLunchMenuSystem.Application\\OfficeLunchMenuSystem.Application.csproj|x:\\apps\\officelunchmenusystem\\officelunchmenusystem.application\\features\\lunchmenu\\commands\\delete\\deletelunchmenucommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{483B47A3-0D3F-4119-89A0-AA5DCB81E1C0}|OfficeLunchMenuSystem.Application\\OfficeLunchMenuSystem.Application.csproj|solutionrelative:officelunchmenusystem.application\\features\\lunchmenu\\commands\\delete\\deletelunchmenucommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{483B47A3-0D3F-4119-89A0-AA5DCB81E1C0}|OfficeLunchMenuSystem.Application\\OfficeLunchMenuSystem.Application.csproj|x:\\apps\\officelunchmenusystem\\officelunchmenusystem.application\\features\\lunchmenu\\commands\\delete\\deletelunchmenucommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{483B47A3-0D3F-4119-89A0-AA5DCB81E1C0}|OfficeLunchMenuSystem.Application\\OfficeLunchMenuSystem.Application.csproj|solutionrelative:officelunchmenusystem.application\\features\\lunchmenu\\commands\\delete\\deletelunchmenucommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{483B47A3-0D3F-4119-89A0-AA5DCB81E1C0}|OfficeLunchMenuSystem.Application\\OfficeLunchMenuSystem.Application.csproj|x:\\apps\\officelunchmenusystem\\officelunchmenusystem.application\\features\\lunchmenu\\queries\\list\\listlunchmenuqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{483B47A3-0D3F-4119-89A0-AA5DCB81E1C0}|OfficeLunchMenuSystem.Application\\OfficeLunchMenuSystem.Application.csproj|solutionrelative:officelunchmenusystem.application\\features\\lunchmenu\\queries\\list\\listlunchmenuqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{483B47A3-0D3F-4119-89A0-AA5DCB81E1C0}|OfficeLunchMenuSystem.Application\\OfficeLunchMenuSystem.Application.csproj|x:\\apps\\officelunchmenusystem\\officelunchmenusystem.application\\features\\lunchmenu\\commands\\write\\createlunchmenucommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{483B47A3-0D3F-4119-89A0-AA5DCB81E1C0}|OfficeLunchMenuSystem.Application\\OfficeLunchMenuSystem.Application.csproj|solutionrelative:officelunchmenusystem.application\\features\\lunchmenu\\commands\\write\\createlunchmenucommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{483B47A3-0D3F-4119-89A0-AA5DCB81E1C0}|OfficeLunchMenuSystem.Application\\OfficeLunchMenuSystem.Application.csproj|x:\\apps\\officelunchmenusystem\\officelunchmenusystem.application\\features\\lunchmenu\\commands\\write\\createlunchmenucommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{483B47A3-0D3F-4119-89A0-AA5DCB81E1C0}|OfficeLunchMenuSystem.Application\\OfficeLunchMenuSystem.Application.csproj|solutionrelative:officelunchmenusystem.application\\features\\lunchmenu\\commands\\write\\createlunchmenucommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{483B47A3-0D3F-4119-89A0-AA5DCB81E1C0}|OfficeLunchMenuSystem.Application\\OfficeLunchMenuSystem.Application.csproj|x:\\apps\\officelunchmenusystem\\officelunchmenusystem.application\\features\\lunchmenu\\commands\\delete\\deletelunchmenucommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{483B47A3-0D3F-4119-89A0-AA5DCB81E1C0}|OfficeLunchMenuSystem.Application\\OfficeLunchMenuSystem.Application.csproj|solutionrelative:officelunchmenusystem.application\\features\\lunchmenu\\commands\\delete\\deletelunchmenucommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B1DFAC4B-2CEC-4F86-9B3D-32C6D51169C8}|OfficeLunchMenuSystem.Domain\\OfficeLunchMenuSystem.Domain.csproj|x:\\apps\\officelunchmenusystem\\officelunchmenusystem.domain\\entities\\lunchmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,16 +43,8 @@
       "RelativeMoniker": "D:0:0:{483B47A3-0D3F-4119-89A0-AA5DCB81E1C0}|OfficeLunchMenuSystem.Application\\OfficeLunchMenuSystem.Application.csproj|solutionrelative:officelunchmenusystem.application\\features\\lunchmenu\\dtos\\lunchmenudto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{483B47A3-0D3F-4119-89A0-AA5DCB81E1C0}|OfficeLunchMenuSystem.Application\\OfficeLunchMenuSystem.Application.csproj|x:\\apps\\officelunchmenusystem\\officelunchmenusystem.application\\features\\lunchmenu\\commands\\write\\createlunchmenucommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{483B47A3-0D3F-4119-89A0-AA5DCB81E1C0}|OfficeLunchMenuSystem.Application\\OfficeLunchMenuSystem.Application.csproj|solutionrelative:officelunchmenusystem.application\\features\\lunchmenu\\commands\\write\\createlunchmenucommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{483B47A3-0D3F-4119-89A0-AA5DCB81E1C0}|OfficeLunchMenuSystem.Application\\OfficeLunchMenuSystem.Application.csproj|x:\\apps\\officelunchmenusystem\\officelunchmenusystem.application\\features\\lunchmenu\\queries\\list\\listlunchmenuquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{483B47A3-0D3F-4119-89A0-AA5DCB81E1C0}|OfficeLunchMenuSystem.Application\\OfficeLunchMenuSystem.Application.csproj|solutionrelative:officelunchmenusystem.application\\features\\lunchmenu\\queries\\list\\listlunchmenuquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{483B47A3-0D3F-4119-89A0-AA5DCB81E1C0}|OfficeLunchMenuSystem.Application\\OfficeLunchMenuSystem.Application.csproj|x:\\apps\\officelunchmenusystem\\officelunchmenusystem.application\\features\\lunchmenu\\queries\\list\\listlunchmenuqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{483B47A3-0D3F-4119-89A0-AA5DCB81E1C0}|OfficeLunchMenuSystem.Application\\OfficeLunchMenuSystem.Application.csproj|solutionrelative:officelunchmenusystem.application\\features\\lunchmenu\\queries\\list\\listlunchmenuqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B1DFAC4B-2CEC-4F86-9B3D-32C6D51169C8}|OfficeLunchMenuSystem.Domain\\OfficeLunchMenuSystem.Domain.csproj|x:\\apps\\officelunchmenusystem\\officelunchmenusystem.domain\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -54,38 +62,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationServicesRegistration.cs",
+              "DocumentMoniker": "X:\\Apps\\OfficeLunchMenuSystem\\OfficeLunchMenuSystem.Application\\ApplicationServicesRegistration.cs",
+              "RelativeDocumentMoniker": "OfficeLunchMenuSystem.Application\\ApplicationServicesRegistration.cs",
+              "ToolTip": "X:\\Apps\\OfficeLunchMenuSystem\\OfficeLunchMenuSystem.Application\\ApplicationServicesRegistration.cs",
+              "RelativeToolTip": "OfficeLunchMenuSystem.Application\\ApplicationServicesRegistration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T14:45:33.877Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "CreateLunchMenuCommand.cs",
-              "DocumentMoniker": "X:\\Apps\\OfficeLunchMenuSystem\\OfficeLunchMenuSystem.Application\\Features\\LunchMenu\\Commands\\Write\\CreateLunchMenuCommand.cs",
-              "RelativeDocumentMoniker": "OfficeLunchMenuSystem.Application\\Features\\LunchMenu\\Commands\\Write\\CreateLunchMenuCommand.cs",
-              "ToolTip": "X:\\Apps\\OfficeLunchMenuSystem\\OfficeLunchMenuSystem.Application\\Features\\LunchMenu\\Commands\\Write\\CreateLunchMenuCommand.cs",
-              "RelativeToolTip": "OfficeLunchMenuSystem.Application\\Features\\LunchMenu\\Commands\\Write\\CreateLunchMenuCommand.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABCAAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "X:\\Apps\\OfficeLunchMenuSystem\\OfficeLunchMenuSystem.Web\\Program.cs",
+              "RelativeDocumentMoniker": "OfficeLunchMenuSystem.Web\\Program.cs",
+              "ToolTip": "X:\\Apps\\OfficeLunchMenuSystem\\OfficeLunchMenuSystem.Web\\Program.cs",
+              "RelativeToolTip": "OfficeLunchMenuSystem.Web\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T08:01:01.686Z",
-              "IsPinned": true,
+              "WhenOpened": "2024-06-23T14:41:57.2Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "LunchMenuController.cs",
+              "DocumentMoniker": "X:\\Apps\\OfficeLunchMenuSystem\\OfficeLunchMenuSystem.Web\\Controllers\\LunchMenuController.cs",
+              "RelativeDocumentMoniker": "OfficeLunchMenuSystem.Web\\Controllers\\LunchMenuController.cs",
+              "ToolTip": "X:\\Apps\\OfficeLunchMenuSystem\\OfficeLunchMenuSystem.Web\\Controllers\\LunchMenuController.cs",
+              "RelativeToolTip": "OfficeLunchMenuSystem.Web\\Controllers\\LunchMenuController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T14:31:55.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "DeleteLunchMenuCommandHandler.cs",
               "DocumentMoniker": "X:\\Apps\\OfficeLunchMenuSystem\\OfficeLunchMenuSystem.Application\\Features\\LunchMenu\\Commands\\Delete\\DeleteLunchMenuCommandHandler.cs",
               "RelativeDocumentMoniker": "OfficeLunchMenuSystem.Application\\Features\\LunchMenu\\Commands\\Delete\\DeleteLunchMenuCommandHandler.cs",
               "ToolTip": "X:\\Apps\\OfficeLunchMenuSystem\\OfficeLunchMenuSystem.Application\\Features\\LunchMenu\\Commands\\Delete\\DeleteLunchMenuCommandHandler.cs",
               "RelativeToolTip": "OfficeLunchMenuSystem.Application\\Features\\LunchMenu\\Commands\\Delete\\DeleteLunchMenuCommandHandler.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABOAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-22T17:24:48.617Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "DeleteLunchMenuCommand.cs",
               "DocumentMoniker": "X:\\Apps\\OfficeLunchMenuSystem\\OfficeLunchMenuSystem.Application\\Features\\LunchMenu\\Commands\\Delete\\DeleteLunchMenuCommand.cs",
               "RelativeDocumentMoniker": "OfficeLunchMenuSystem.Application\\Features\\LunchMenu\\Commands\\Delete\\DeleteLunchMenuCommand.cs",
@@ -97,16 +138,8 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "CreateLunchMenuCommandHandler.cs",
               "DocumentMoniker": "X:\\Apps\\OfficeLunchMenuSystem\\OfficeLunchMenuSystem.Application\\Features\\LunchMenu\\Commands\\Write\\CreateLunchMenuCommandHandler.cs",
               "RelativeDocumentMoniker": "OfficeLunchMenuSystem.Application\\Features\\LunchMenu\\Commands\\Write\\CreateLunchMenuCommandHandler.cs",
@@ -114,11 +147,12 @@
               "RelativeToolTip": "OfficeLunchMenuSystem.Application\\Features\\LunchMenu\\Commands\\Write\\CreateLunchMenuCommandHandler.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T08:06:40.985Z"
+              "WhenOpened": "2024-06-21T08:06:40.985Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
               "Title": "ListLunchMenuQueryHandler.cs",
               "DocumentMoniker": "X:\\Apps\\OfficeLunchMenuSystem\\OfficeLunchMenuSystem.Application\\Features\\LunchMenu\\Queries\\List\\ListLunchMenuQueryHandler.cs",
               "RelativeDocumentMoniker": "OfficeLunchMenuSystem.Application\\Features\\LunchMenu\\Queries\\List\\ListLunchMenuQueryHandler.cs",
@@ -126,11 +160,12 @@
               "RelativeToolTip": "OfficeLunchMenuSystem.Application\\Features\\LunchMenu\\Queries\\List\\ListLunchMenuQueryHandler.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-20T08:02:59.65Z"
+              "WhenOpened": "2024-06-20T08:02:59.65Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "ListLunchMenuQuery.cs",
               "DocumentMoniker": "X:\\Apps\\OfficeLunchMenuSystem\\OfficeLunchMenuSystem.Application\\Features\\LunchMenu\\Queries\\List\\ListLunchMenuQuery.cs",
               "RelativeDocumentMoniker": "OfficeLunchMenuSystem.Application\\Features\\LunchMenu\\Queries\\List\\ListLunchMenuQuery.cs",
@@ -138,11 +173,12 @@
               "RelativeToolTip": "OfficeLunchMenuSystem.Application\\Features\\LunchMenu\\Queries\\List\\ListLunchMenuQuery.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABLAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-20T07:58:39.052Z"
+              "WhenOpened": "2024-06-20T07:58:39.052Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "LunchMenuDTO.cs",
               "DocumentMoniker": "X:\\Apps\\OfficeLunchMenuSystem\\OfficeLunchMenuSystem.Application\\Features\\LunchMenu\\DTOs\\LunchMenuDTO.cs",
               "RelativeDocumentMoniker": "OfficeLunchMenuSystem.Application\\Features\\LunchMenu\\DTOs\\LunchMenuDTO.cs",
@@ -150,11 +186,12 @@
               "RelativeToolTip": "OfficeLunchMenuSystem.Application\\Features\\LunchMenu\\DTOs\\LunchMenuDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-20T07:50:42.621Z"
+              "WhenOpened": "2024-06-20T07:50:42.621Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "MappingProfile.cs",
               "DocumentMoniker": "X:\\Apps\\OfficeLunchMenuSystem\\OfficeLunchMenuSystem.Application\\Mappings\\MappingProfile.cs",
               "RelativeDocumentMoniker": "OfficeLunchMenuSystem.Application\\Mappings\\MappingProfile.cs",
@@ -162,11 +199,12 @@
               "RelativeToolTip": "OfficeLunchMenuSystem.Application\\Mappings\\MappingProfile.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T16:57:13.428Z"
+              "WhenOpened": "2024-06-19T16:57:13.428Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "IRepository.cs",
               "DocumentMoniker": "X:\\Apps\\OfficeLunchMenuSystem\\OfficeLunchMenuSystem.Domain\\Repository\\IRepository.cs",
               "RelativeDocumentMoniker": "OfficeLunchMenuSystem.Domain\\Repository\\IRepository.cs",
@@ -174,11 +212,12 @@
               "RelativeToolTip": "OfficeLunchMenuSystem.Domain\\Repository\\IRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-16T15:10:25.095Z"
+              "WhenOpened": "2024-06-16T15:10:25.095Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "LunchOption.cs",
               "DocumentMoniker": "X:\\Apps\\OfficeLunchMenuSystem\\OfficeLunchMenuSystem.Domain\\Entities\\LunchOption.cs",
               "RelativeDocumentMoniker": "OfficeLunchMenuSystem.Domain\\Entities\\LunchOption.cs",
@@ -186,11 +225,12 @@
               "RelativeToolTip": "OfficeLunchMenuSystem.Domain\\Entities\\LunchOption.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-16T09:45:30.941Z"
+              "WhenOpened": "2024-06-16T09:45:30.941Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "LunchMenu.cs",
               "DocumentMoniker": "X:\\Apps\\OfficeLunchMenuSystem\\OfficeLunchMenuSystem.Domain\\Entities\\LunchMenu.cs",
               "RelativeDocumentMoniker": "OfficeLunchMenuSystem.Domain\\Entities\\LunchMenu.cs",
@@ -198,7 +238,8 @@
               "RelativeToolTip": "OfficeLunchMenuSystem.Domain\\Entities\\LunchMenu.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-16T09:39:35.966Z"
+              "WhenOpened": "2024-06-16T09:39:35.966Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -33,7 +33,6 @@ X:\Apps\OfficeLunchMenuSystem\OfficeLunchMenuSystem.Web\bin\Debug\net8.0\Azure.I
 X:\Apps\OfficeLunchMenuSystem\OfficeLunchMenuSystem.Web\bin\Debug\net8.0\Humanizer.dll
 X:\Apps\OfficeLunchMenuSystem\OfficeLunchMenuSystem.Web\bin\Debug\net8.0\MediatR.dll
 X:\Apps\OfficeLunchMenuSystem\OfficeLunchMenuSystem.Web\bin\Debug\net8.0\MediatR.Contracts.dll
-X:\Apps\OfficeLunchMenuSystem\OfficeLunchMenuSystem.Web\bin\Debug\net8.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
 X:\Apps\OfficeLunchMenuSystem\OfficeLunchMenuSystem.Web\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
 X:\Apps\OfficeLunchMenuSystem\OfficeLunchMenuSystem.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
 X:\Apps\OfficeLunchMenuSystem\OfficeLunchMenuSystem.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll

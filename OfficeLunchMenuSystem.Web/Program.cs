@@ -1,5 +1,8 @@
 using Microsoft.EntityFrameworkCore;
+using OfficeLunchMenuSystem.Application;
+using OfficeLunchMenuSystem.Domain.Repository;
 using OfficeLunchMenuSystem.Infrastructure.Data;
+using OfficeLunchMenuSystem.Infrastructure.Repositories;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -8,6 +11,9 @@ builder.Services.AddControllersWithViews();
 
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DataConnection")));
+
+builder.Services.AddScoped(typeof(IRepository<>), typeof(Repository<>));
+builder.Services.AddApplication();
 
 var app = builder.Build();
 

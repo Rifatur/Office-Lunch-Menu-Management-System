@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OfficeLunchMenuSystem.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bedf07384576262ebee53575d15011ef70934208")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aca8407b4426003463abb35ce363d28361449e25")]
 [assembly: System.Reflection.AssemblyProductAttribute("OfficeLunchMenuSystem.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OfficeLunchMenuSystem.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
