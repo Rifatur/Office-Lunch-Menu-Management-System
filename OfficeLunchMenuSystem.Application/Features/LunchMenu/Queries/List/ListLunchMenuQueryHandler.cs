@@ -7,6 +7,7 @@ namespace OfficeLunchMenuSystem.Application.Features.LunchMenu.Queries.List
     public class ListLunchMenuQueryHandler : IRequestHandler<ListLunchMenuQuery, IEnumerable<LunchMenuDTO>>
     {
         private readonly IRepository<LunchMenuDTO> _repository;
+
         public ListLunchMenuQueryHandler(IRepository<LunchMenuDTO> repository)
         {
             _repository = repository;

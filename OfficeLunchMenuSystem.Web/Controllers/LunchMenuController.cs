@@ -16,7 +16,7 @@ namespace OfficeLunchMenuSystem.Web.Controllers
             var result = await _mediator.Send(new ListLunchMenuQuery(), cancellationToken);
             return View(result);
         }
-        public async Task<IActionResult> Createpost()
+        public async Task<IActionResult> Create()
         {
             return View();
         }
