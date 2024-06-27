@@ -9,6 +9,7 @@
   <ItemGroup>
     <Folder Include="Features\LunchMenu\Commands\Update\" />
     <Folder Include="Features\LunchMenu\Queries\Get\" />
+    <Folder Include="Features\Menu\Queries\" />
   </ItemGroup>
 
   <ItemGroup>
