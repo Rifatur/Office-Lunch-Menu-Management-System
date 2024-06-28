@@ -30,6 +30,9 @@
             "projectReferences": {
               "X:\\Apps\\OfficeLunchMenuSystem\\OfficeLunchMenuSystem.Domain\\OfficeLunchMenuSystem.Domain.csproj": {
                 "projectPath": "X:\\Apps\\OfficeLunchMenuSystem\\OfficeLunchMenuSystem.Domain\\OfficeLunchMenuSystem.Domain.csproj"
+              },
+              "X:\\Apps\\OfficeLunchMenuSystem\\OfficeLunchMenuSystem.Infrastructure\\OfficeLunchMenuSystem.Infrastructure.csproj": {
+                "projectPath": "X:\\Apps\\OfficeLunchMenuSystem\\OfficeLunchMenuSystem.Infrastructure\\OfficeLunchMenuSystem.Infrastructure.csproj"
               }
             }
           }

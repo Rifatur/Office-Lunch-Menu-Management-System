@@ -92,7 +92,7 @@
               "RelativeDocumentMoniker": "OfficeLunchMenuSystem.Application\\Features\\Menu\\Command\\Create\\CreateMenuCommandHandler.cs",
               "ToolTip": "X:\\Apps\\OfficeLunchMenuSystem\\OfficeLunchMenuSystem.Application\\Features\\Menu\\Command\\Create\\CreateMenuCommandHandler.cs",
               "RelativeToolTip": "OfficeLunchMenuSystem.Application\\Features\\Menu\\Command\\Create\\CreateMenuCommandHandler.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-27T16:24:20.21Z",
               "EditorCaption": ""
@@ -105,7 +105,7 @@
               "RelativeDocumentMoniker": "OfficeLunchMenuSystem.Application\\Features\\Menu\\Command\\Create\\CreateMenuCommand.cs",
               "ToolTip": "X:\\Apps\\OfficeLunchMenuSystem\\OfficeLunchMenuSystem.Application\\Features\\Menu\\Command\\Create\\CreateMenuCommand.cs",
               "RelativeToolTip": "OfficeLunchMenuSystem.Application\\Features\\Menu\\Command\\Create\\CreateMenuCommand.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA/AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-27T16:22:08.89Z",
               "EditorCaption": ""
@@ -120,8 +120,7 @@
               "RelativeToolTip": "OfficeLunchMenuSystem.Web\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T14:41:57.2Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-23T14:41:57.2Z"
             },
             {
               "$type": "Document",
@@ -133,8 +132,7 @@
               "RelativeToolTip": "OfficeLunchMenuSystem.Web\\Controllers\\LunchMenuController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T14:31:55.994Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-23T14:31:55.994Z"
             },
             {
               "$type": "Document",
@@ -146,8 +144,7 @@
               "RelativeToolTip": "OfficeLunchMenuSystem.Application\\Features\\LunchMenu\\Commands\\Delete\\DeleteLunchMenuCommandHandler.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-22T17:24:48.617Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-22T17:24:48.617Z"
             },
             {
               "$type": "Document",
@@ -159,8 +156,7 @@
               "RelativeToolTip": "OfficeLunchMenuSystem.Application\\Features\\LunchMenu\\Commands\\Delete\\DeleteLunchMenuCommand.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-22T17:23:18.329Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-22T17:23:18.329Z"
             },
             {
               "$type": "Document",
@@ -172,8 +168,7 @@
               "RelativeToolTip": "OfficeLunchMenuSystem.Application\\Features\\LunchMenu\\Commands\\Write\\CreateLunchMenuCommandHandler.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T08:06:40.985Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-21T08:06:40.985Z"
             },
             {
               "$type": "Document",
@@ -185,8 +180,7 @@
               "RelativeToolTip": "OfficeLunchMenuSystem.Application\\Features\\LunchMenu\\Queries\\List\\ListLunchMenuQuery.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABLAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-20T07:58:39.052Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-20T07:58:39.052Z"
             },
             {
               "$type": "Document",
@@ -198,8 +192,7 @@
               "RelativeToolTip": "OfficeLunchMenuSystem.Application\\Features\\LunchMenu\\Queries\\List\\ListLunchMenuQueryHandler.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-20T08:02:59.65Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-20T08:02:59.65Z"
             },
             {
               "$type": "Document",
@@ -211,8 +204,7 @@
               "RelativeToolTip": "OfficeLunchMenuSystem.Application\\ApplicationServicesRegistration.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T14:45:33.877Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-23T14:45:33.877Z"
             },
             {
               "$type": "Document",
@@ -224,8 +216,7 @@
               "RelativeToolTip": "OfficeLunchMenuSystem.Web\\Views\\LunchMenu\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-24T17:52:06.207Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-24T17:52:06.207Z"
             },
             {
               "$type": "Document",
@@ -237,8 +228,7 @@
               "RelativeToolTip": "OfficeLunchMenuSystem.Application\\Features\\LunchMenu\\DTOs\\LunchMenuDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-20T07:50:42.621Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-20T07:50:42.621Z"
             },
             {
               "$type": "Document",
@@ -250,8 +240,7 @@
               "RelativeToolTip": "OfficeLunchMenuSystem.Application\\Mappings\\MappingProfile.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T16:57:13.428Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-19T16:57:13.428Z"
             },
             {
               "$type": "Document",
@@ -263,8 +252,7 @@
               "RelativeToolTip": "OfficeLunchMenuSystem.Domain\\Repository\\IRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-16T15:10:25.095Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-16T15:10:25.095Z"
             },
             {
               "$type": "Document",
@@ -276,8 +264,7 @@
               "RelativeToolTip": "OfficeLunchMenuSystem.Domain\\Entities\\LunchOption.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-16T09:45:30.941Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-16T09:45:30.941Z"
             },
             {
               "$type": "Document",
@@ -289,8 +276,7 @@
               "RelativeToolTip": "OfficeLunchMenuSystem.Domain\\Entities\\LunchMenu.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-16T09:39:35.966Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-16T09:39:35.966Z"
             }
           ]
         }

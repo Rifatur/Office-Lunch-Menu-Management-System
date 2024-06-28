@@ -20,6 +20,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\OfficeLunchMenuSystem.Domain\OfficeLunchMenuSystem.Domain.csproj" />
+    <ProjectReference Include="..\OfficeLunchMenuSystem.Infrastructure\OfficeLunchMenuSystem.Infrastructure.csproj" />
   </ItemGroup>
 
 </Project>
