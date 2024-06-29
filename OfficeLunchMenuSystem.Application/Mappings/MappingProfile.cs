@@ -1,5 +1,6 @@
 ﻿using AutoMapper;
-using OfficeLunchMenuSystem.Application.Features.LunchMenu.DTOs;
+
+using OfficeLunchMenuSystem.Application.Features.Menu.DTOs;
 using OfficeLunchMenuSystem.Domain.Entities;
 
 namespace OfficeLunchMenuSystem.Application.Mappings

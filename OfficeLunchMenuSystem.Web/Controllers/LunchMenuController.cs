@@ -1,6 +1,6 @@
 ﻿using MediatR;
 using Microsoft.AspNetCore.Mvc;
-using OfficeLunchMenuSystem.Application.Features.LunchMenu.Queries.List;
+using OfficeLunchMenuSystem.Application.Features.Menu.Command.Create;
 
 namespace OfficeLunchMenuSystem.Web.Controllers
 {
@@ -13,12 +13,22 @@ namespace OfficeLunchMenuSystem.Web.Controllers
         }
         public async Task<IActionResult> Index(CancellationToken cancellationToken)
         {
-            var result = await _mediator.Send(new ListLunchMenuQuery(), cancellationToken);
-            return View(result);
+
+            return View();
         }
         public async Task<IActionResult> Create()
         {
             return View();
+        }
+        [HttpPost]
+        public async Task<IActionResult> Create(CreateMenuCommand command)
+        {
+            if (ModelState.IsValid)
+            {
+                var productId = await _mediator.Send(command);
+                return RedirectToAction(nameof(Index));
+            }
+            return View(command);
         }
     }
 }

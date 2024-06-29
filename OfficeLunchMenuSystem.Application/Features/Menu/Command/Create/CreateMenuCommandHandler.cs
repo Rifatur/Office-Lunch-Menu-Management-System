@@ -1,26 +1,26 @@
-﻿using MediatR;
-using OfficeLunchMenuSystem.Infrastructure.Data;
+﻿using AutoMapper;
+using MediatR;
+using OfficeLunchMenuSystem.Domain.Entities;
+using OfficeLunchMenuSystem.Domain.Repository;
 
 namespace OfficeLunchMenuSystem.Application.Features.Menu.Command.Create
 {
     public class CreateMenuCommandHandler : IRequestHandler<CreateMenuCommand, Guid>
     {
 
-        private readonly ApplicationDbContext _context;
-        public CreateMenuCommandHandler(ApplicationDbContext context)
+        private readonly IRepository<LunchMenu> _repository;
+        private readonly IMapper _mapper;
+        public CreateMenuCommandHandler(IRepository<LunchMenu> repository, IMapper mapper)
         {
-            _context = context;
+            _repository = repository;
+            _mapper = mapper;
         }
 
-        public Task<Guid> Handle(CreateMenuCommand request, CancellationToken cancellationToken)
+        public async Task<Guid> Handle(CreateMenuCommand request, CancellationToken cancellationToken)
         {
-            var menu = new LunchMenu
-            {
-                Name = request.Name,
-                Date = request.Date,
-                Description = request.Description
-            };
-            return menu.Id;
+            var Menu = _mapper.Map<LunchMenu>(request);
+            await _repository.AddAsync(Menu);
+            return Menu.Id;
         }
     }
 }
