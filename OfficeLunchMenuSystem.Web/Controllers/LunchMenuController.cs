@@ -1,6 +1,7 @@
 ﻿using MediatR;
 using Microsoft.AspNetCore.Mvc;
 using OfficeLunchMenuSystem.Application.Features.Menu.Command.Create;
+using OfficeLunchMenuSystem.Application.Features.Menu.Queries.Get;
 using OfficeLunchMenuSystem.Application.Features.Menu.Queries.List;
 
 namespace OfficeLunchMenuSystem.Web.Controllers
@@ -33,5 +34,18 @@ namespace OfficeLunchMenuSystem.Web.Controllers
             }
             return View(command);
         }
+        [HttpGet("{id}")]
+        public async Task<IActionResult> MenuById(Guid id)
+        {
+            var Menu = await _mediator.Send(new GetMenuByIdQuery { Id = id });
+            if (Menu == null)
+            {
+                return NotFound();
+            }
+            return View(Menu);
+        }
+
+
+
     }
 }
