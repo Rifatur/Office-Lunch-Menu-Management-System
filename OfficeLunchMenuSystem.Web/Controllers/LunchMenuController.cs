@@ -1,6 +1,7 @@
 ﻿using MediatR;
 using Microsoft.AspNetCore.Mvc;
 using OfficeLunchMenuSystem.Application.Features.Menu.Command.Create;
+using OfficeLunchMenuSystem.Application.Features.Menu.Queries.List;
 
 namespace OfficeLunchMenuSystem.Web.Controllers
 {
@@ -14,7 +15,9 @@ namespace OfficeLunchMenuSystem.Web.Controllers
         public async Task<IActionResult> Index(CancellationToken cancellationToken)
         {
 
-            return View();
+            var menus = await _mediator.Send(new ListMenuQuery());
+            return View(menus);
+
         }
         public async Task<IActionResult> Create()
         {
