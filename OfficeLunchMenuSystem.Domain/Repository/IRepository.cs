@@ -9,7 +9,7 @@ namespace OfficeLunchMenuSystem.Domain.Repository
         Task<IEnumerable<T>> FindAsync(Expression<Func<T, bool>> predicate);
         Task AddAsync(T entity);
         Task UpdateAsync(T entity);
-        Task DeleteAsync(Guid Id);
+        Task DeleteAsync(T entity);
 
     }
 }

@@ -21,9 +21,8 @@ namespace OfficeLunchMenuSystem.Infrastructure.Repositories
             await _context.SaveChangesAsync();
         }
 
-        public async Task DeleteAsync(Guid Id)
+        public async Task DeleteAsync(T entity)
         {
-            var entity = await _dbSet.FindAsync(Id);
             _dbSet.Remove(entity);
             await _context.SaveChangesAsync();
         }

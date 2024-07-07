@@ -1,6 +1,7 @@
 ﻿using MediatR;
 using Microsoft.AspNetCore.Mvc;
 using OfficeLunchMenuSystem.Application.Features.Menu.Command.Create;
+using OfficeLunchMenuSystem.Application.Features.Menu.Command.Delete;
 using OfficeLunchMenuSystem.Application.Features.Menu.Queries.Get;
 using OfficeLunchMenuSystem.Application.Features.Menu.Queries.List;
 
@@ -43,7 +44,15 @@ namespace OfficeLunchMenuSystem.Web.Controllers
                 return NotFound();
             }
             return View(Menu);
+
         }
+
+        public async Task<IActionResult> Delete(Guid id)
+        {
+            await _mediator.Send(new DeleteMenuCommand { Id = id });
+            return RedirectToAction("Index", "LunchMenu");
+        }
+
 
 
 
