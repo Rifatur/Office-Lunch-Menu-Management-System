@@ -2,6 +2,7 @@
 using Microsoft.AspNetCore.Mvc;
 using OfficeLunchMenuSystem.Application.Features.Menu.Command.Create;
 using OfficeLunchMenuSystem.Application.Features.Menu.Command.Delete;
+using OfficeLunchMenuSystem.Application.Features.Menu.Command.Update;
 using OfficeLunchMenuSystem.Application.Features.Menu.Queries.Get;
 using OfficeLunchMenuSystem.Application.Features.Menu.Queries.List;
 
@@ -47,10 +48,40 @@ namespace OfficeLunchMenuSystem.Web.Controllers
 
         }
 
+
+
         public async Task<IActionResult> Delete(Guid id)
         {
             await _mediator.Send(new DeleteMenuCommand { Id = id });
             return RedirectToAction("Index", "LunchMenu");
+        }
+        public async Task<IActionResult> Edit(Guid id)
+        {
+            var menus = await _mediator.Send(new GetMenuByIdQuery { Id = id });
+            if (menus == null)
+            {
+                return NotFound();
+            }
+            var command = new UpdateMenuCommand
+            {
+                Id = menus.Id,
+                Name = menus.Name,
+                Date = menus.Date,
+                Description = menus.Description
+            };
+            return View(command);
+        }
+
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> Edit(UpdateMenuCommand command)
+        {
+            if (ModelState.IsValid)
+            {
+                await _mediator.Send(command);
+                return RedirectToAction(nameof(Index));
+            }
+            return View(command);
         }
 
 

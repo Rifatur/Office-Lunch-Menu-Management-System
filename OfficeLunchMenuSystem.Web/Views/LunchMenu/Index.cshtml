@@ -46,7 +46,9 @@
                     <a asp-controller="LunchMenu" asp-action="MenuById" asp-route-id="@item.Id" class="edit">
                       View |
                     </a>
-                @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+                    <a asp-controller="LunchMenu" asp-action="Edit" asp-route-id="@item.Id" class="edit">
+                        edit |
+                    </a>
                     <a asp-controller="LunchMenu" asp-action="Delete" asp-route-id="@item.Id" class="edit">
                         Delete 
                     </a>

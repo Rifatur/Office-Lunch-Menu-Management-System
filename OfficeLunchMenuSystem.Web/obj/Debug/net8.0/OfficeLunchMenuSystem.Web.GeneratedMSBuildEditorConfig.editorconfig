@@ -38,6 +38,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTHVuY2hNZW51XENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[X:/Apps/OfficeLunchMenuSystem/OfficeLunchMenuSystem.Web/Views/LunchMenu/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTHVuY2hNZW51XEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [X:/Apps/OfficeLunchMenuSystem/OfficeLunchMenuSystem.Web/Views/LunchMenu/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTHVuY2hNZW51XEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 

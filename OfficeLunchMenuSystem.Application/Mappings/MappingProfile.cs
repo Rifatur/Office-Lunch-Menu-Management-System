@@ -1,5 +1,6 @@
 ﻿using AutoMapper;
 using OfficeLunchMenuSystem.Application.Features.Menu.Command.Create;
+using OfficeLunchMenuSystem.Application.Features.Menu.Command.Update;
 using OfficeLunchMenuSystem.Application.Features.Menu.DTOs;
 using OfficeLunchMenuSystem.Domain.Entities;
 
@@ -11,6 +12,7 @@ namespace OfficeLunchMenuSystem.Application.Mappings
         {
             CreateMap<LunchMenu, LunchMenuDTO>().ReverseMap();
             CreateMap<LunchMenu, CreateMenuCommand>().ReverseMap();
+            CreateMap<LunchMenu, UpdateMenuCommand>();
         }
     }
 }
